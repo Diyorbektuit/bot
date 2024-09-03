@@ -13,9 +13,7 @@ async def about_commands(message:Message):
 
     "<b>🎯 Referal tizimi qanday ishlaydi?</b>\n"
 
-    "1. <b>👤 1-daraja: Sizning to'g'ridan-to'g'ri referallaringiz. Ular har bir harakatda sizga ball olib keladi.</b>\n"
-    "2. <b>👥 2-daraja: Sizning referallaringizning referallari. Ularning harakatlari uchun ham siz ball to'playsiz.</b>\n"
-    "3. <b>👨‍👩‍👧‍👦 3-daraja: 3-darajali referallar orqali ham ball yig'ishingiz mumkin.</b>\n"
+    "1. <b>👤 : Sizning to'g'ridan-to'g'ri referallaringiz. Ular har bir harakatda sizga ball olib keladi.</b>\n"
 
     "<b>🔗 Referal havolangizni do'stlaringiz bilan ulashing va ko'proq ball to'plang!</b>\n"
 

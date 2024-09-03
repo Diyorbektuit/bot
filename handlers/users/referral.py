@@ -2,7 +2,7 @@ from baza.sqlite import Database
 from aiogram.types import Message
 from loader import dp, db, bot, ADMINS
 from aiogram import F, Dispatcher
-from keyboard_buttons.button import menu_button
+from keyboard_buttons.button import main_keyboard
 
 async def handle_referral(message: Message):
     args = message.get_args()

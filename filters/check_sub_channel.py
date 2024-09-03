@@ -1,4 +1,4 @@
-from data.config import CHANNELS
+"""from data.config import CHANNELS
 from aiogram import filters,Bot
 from aiogram.types import Message
 
@@ -11,3 +11,4 @@ class IsCheckSubChannels(filters.Filter):
             if result.status in ["member","adminstrator","creator"]:
                 return False
         return True
+"""

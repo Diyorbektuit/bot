@@ -1,4 +1,4 @@
-from filters.check_sub_channel import IsCheckSubChannels
+#from filters.check_sub_channel import IsCheckSubChannels
 from loader import bot,db,dp,ADMINS
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiogram.types import Message,InlineKeyboardButton,InlineKeyboardMarkup
